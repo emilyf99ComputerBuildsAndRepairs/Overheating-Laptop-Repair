@@ -1,5 +1,5 @@
-# Overheating-Laptop-Repair
-Repair of a laptop that was bluescreening and turning itself off during use 
+# Overheating Laptop Repair
+Repair of a laptop that was bluescreening and turning itself off during use. 
 
 ![Laptop-View](https://github.com/EmilyF99/Overheating-Laptop-Repair/blob/main/240816012_1559881667866439_6519475277379717953_n.jpg?raw=true)
 
